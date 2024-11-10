@@ -13,7 +13,7 @@ This Python program reads word lists from input text files, identifies the longe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/impledge-assessment.git
+   git clone https://github.com/Prerna2kapoor/Impledge-Assesment-
 2. Navigate to the project folder: 
     cd impledge-assessment
 3.  Ensure that Python is installed:
@@ -26,14 +26,14 @@ This Python program reads word lists from input text files, identifies the longe
 3.The program will process the files and output the results, which include the longest compound word, the second-longest compound word, and the time taken to process each file.
 
 ## Example output:
-Processing file: Input_01.txt
-Longest Compound Word: ratcatdogcat
-Second Longest Compound Word: catsdogcats
+Processing file: Input_01.txt ,   
+Longest Compound Word: ratcatdogcat,
+Second Longest Compound Word: catsdogcats,
 Time taken to process file Input_01.txt: 0.00 milliseconds
 
 Processing file: Input_02.txt
-Longest Compound Word: ethylenediaminetetraacetates
-Second Longest Compound Word: electroencephalographically
+Longest Compound Word: ethylenediaminetetraacetates,
+Second Longest Compound Word: electroencephalographically,
 Time taken to process file Input_02.txt: 832.78 milliseconds
 
 ## Design Decisions and Approach
@@ -79,3 +79,4 @@ Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+                                 #PRERNA KAPOOR
